@@ -9,7 +9,8 @@ I have extensive knowledge and interest in C++ programming, especially in using 
 - Modern C++ (C++17+)
 - Metaprogramming and generic programming
 - Hardware multithreading and parallel programming
-- Low latency data structures and techniques
+- Lock-free data structures
+- SIMD
 - Traditional OOP programming
 - Algorithmic problem-solving
 
